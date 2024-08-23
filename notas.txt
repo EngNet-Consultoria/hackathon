@@ -1,0 +1,74 @@
+--------------------------------D11-------------------------------------
+- objetivo: apresentera pontos de contato para segurança e acolhimento de mulheres;
+RNF: 
+- discreta;
+RF:
+- indicar informações de ponto de segurança;
+--------------------------------D15--------------------------------------
+- objetivo: criar uma plataforma para auxilio na escrita de texto;
+RNF:
+- norma abnt;
+RF:
+- LMS com base de ideias;
+- apresentar dúvidas sobre o texto que permitam o aluno a desenvolver o texto;
+--------------------------------D6---------------------------------------
+- objetivo: plataforma inclusiva para grupo minoritários (linkdin?);
+RNF:
+- análise de perfil comportamental;
+RF:
+- Empresas se cadastram e publicam oportunidades;
+- Pessoas se cadastram e olham as vagas disponíveis;
+(61)999766985 e instagram Perpectivas	
+-------------------------------D1---------------------------------------
+- objetivo: aplicativo para funcionar parecido com o APP de carro de aplicativo, mas para engraxates cadastrados;
+RNF:
+- uso de geo-localização;
+RF:
+- avaliar o trabalho;
+- permitir pagamento por cartão, pix ou outras formas;
+------------------------------D2----------------------------------------
+- objetivo: controle e registro das cartas e do apoio de voluntários;
+RNF:
+- rastrear a cadeia da carta, até o presente ser entregue;
+RF:
+- Observar qual etapa do processo uma carta específica está;
+-----------------------------D3------------------------------------------
+- objetivo: manter fluxo estável da buyticket;
+-----------------------------D5------------------------------------------
+- objetivo: Aumentar a quantidade de reiclados recebidos por empresas e catadores
+-----------------------------D4------------------------------------------
+- objetivo: aumentar os ganhos da Tronik;
+-----------------------------D7------------------------------------------
+- objetivo: criar uma comunidade para mulheres empreeendedoras;
+RF:
+- ofertar cursos para mulheres que não possuem condição de pagar;
+RNF:
+- criar uma comunidade ativa;
+----------------------------D9-------------------------------------------
+objetivo: criar uma plataforma que conecta arquiteto com bancos;
+RF:
+- conexão com instituições bancárias;
+- permitir pagamentos a prazo;
+---------------------------D8--------------------------------------------
+???
+---------------------------D10-------------------------------------------
+- objetivo: integrar o ESG, especialmente o S, a uma OSC
+---------------------------D12-------------------------------------------
+https://sinfor.org.br/inovatidf/hacka-4-desafio-12/
+---------------------------D13-------------------------------------------
+objetivo: criar um produto que expõe doações e permite doaçoes para diversas ongs
+RF:
+- cadastrar usuários;
+- enviar notícias sobre projetos auxiliados;
+- relatório de prestação de contas;
+- gerar agradecimentos personalizados;
+---------------------------D16-------------------------------------------
+- objetivo: facilitar um cadastro dinâmico de voluntários e filtrar as capacidades deste;
+-RF:
+- cadastro de voluntários
+- filtrar voluntários para projetos cadastrados;
+--------------------------D17--------------------------------------------
+- objetivo: criar um aplicativo com  assistente virtual IA
+RF:
+- usar base do CLAM;
+- informar sobre desenvolvimento humano e inteligência emocional;
